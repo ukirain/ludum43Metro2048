@@ -5,5 +5,5 @@ Developer: Oleg Pavlovski @ukirain
 Game Design: Victor Levashov
 Art: Denis Pitruk
 
-source: https://drive.google.com/file/d/1-pwWWUItCPs5u9UEVfrYO_2MQEa9qInu/view
+source: https://ldjam.com/events/ludum-dare/42/metro-2048-exodus
 ![](https://github.com/ukirain/ludum43Metro2048/blob/master/Yk3B761mYWE.jpg)
